@@ -1,0 +1,13 @@
+# C#
+ * [c# guide by msdn](http://msdn.microsoft.com/en-us/library/67ef8sbd.aspx)
+ * [linq example](http://weblogs.asp.net/sbehera/archive/2011/04/13/101-linq-samples.aspx)
+ * [linq example](http://www.dotnetcurry.com/ShowArticle.aspx?ID=727)
+ * [parallel linq](http://www.blackwasp.co.uk/PLINQ.aspx)
+ * [data structure performance](http://stackoverflow.com/questions/128636/net-data-structures-arraylist-list-hashtable-dictionary-sortedlist-sorted)
+ * [C# essential](http://www.techotopia.com/index.php/C_Sharp_Essentials)
+ * [wiki book](http://en.wikibooks.org/wiki/C_Sharp_Programming)
+ * [algorithms in c#](http://www.brpreiss.com/books/opus6/)
+ * [linq join](http://www.dotnetfunda.com/codes/code1849-how-to-use-left-right-outer-join-in-linq.aspx)
+ * [linq let](http://www.dotnetfunda.com/codes/code1850-use-of-let-keyword-in-linq.aspx)
+ * [linq tutorial](http://cplus.about.com/od/learnc/a/LINQ-Tutorial-Five-More-Enumerable-Methods.htm)
+ * [mongo db](https://github.com/samus/mongodb-csharp)

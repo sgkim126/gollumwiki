@@ -82,6 +82,8 @@
         (array[0]).(array[1]) (array[2..last])
 
 ###assert_valid
+ * Deprecated.
+ * Use assert(record.valid?) instead.
 
         assert_valid record
 

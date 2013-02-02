@@ -21,6 +21,16 @@
 ### length
  * [length](http://guides.rubyonrails.org/active_record_validations_callbacks.html#length)
 
+#### maximum
+#### minimum
+#### in
+ * or :within
+
+#### is
+#### too_short
+#### too_long
+#### tokenizer
+
 ### numericality
  * [numericality](http://guides.rubyonrails.org/active_record_validations_callbacks.html#numericality)
 

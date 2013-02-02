@@ -34,6 +34,14 @@
 ### numericality
  * [numericality](http://guides.rubyonrails.org/active_record_validations_callbacks.html#numericality)
 
+#### greater_than
+#### greater_than_or_equal_to
+#### equal_to
+#### less_than
+#### less_than_or_equal_to
+#### odd
+#### even
+
 ### presence
  * [presence](http://guides.rubyonrails.org/active_record_validations_callbacks.html#presence)
 

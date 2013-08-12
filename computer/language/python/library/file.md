@@ -1,0 +1,15 @@
+# File
+## Method
+### close
+#### flush
+### fileinfo
+### isatty
+### next
+### read
+### redline
+### readlines
+### seek
+### tell
+### truncate
+### write
+### writelines

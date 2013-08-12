@@ -1,0 +1,11 @@
+# List
+## Method
+### append
+### count
+### extend
+### index
+### insert
+### pop
+### remove
+### reverse
+### sort

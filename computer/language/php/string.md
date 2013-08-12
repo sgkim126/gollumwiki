@@ -1,0 +1,15 @@
+# String
+## Function
+### crypt
+### explode
+### implode
+### nl2br
+### sprintf
+### strip_tags
+### str_replace
+### strpos
+### strrev
+### strstr
+### strtolower
+### strtoupper
+### substr

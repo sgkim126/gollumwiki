@@ -1,0 +1,10 @@
+# Datetime
+## Method
+### today
+### now
+### utcnow
+### formatordinal
+### combine
+### strptime
+### formattimestamp
+### utcformattimestamp

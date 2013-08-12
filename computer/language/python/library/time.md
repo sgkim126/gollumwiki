@@ -1,0 +1,9 @@
+# Time
+## Method
+### replace
+### utcoffset
+### isoformat
+### dst
+### tzname
+### strftime
+### __str__

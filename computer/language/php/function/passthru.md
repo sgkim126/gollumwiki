@@ -1,0 +1,2 @@
+# paossthru
+    passthru($command);

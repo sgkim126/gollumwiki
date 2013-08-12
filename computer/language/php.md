@@ -1,0 +1,13 @@
+# PHP
+ * [php.net](http://www.php.net/ | php.net)
+ * [phpschool](http://phpschool.com/)
+ * [WebChat tutorial](http://tutorialzine.com/2010/10/ajax-web-chat-php-mysql/)
+ * [Client url](http://php.net/manual/en/book.curl.php)
+ * [tutorial](http://www.webinone.net/category/tutorials/php/)
+ * [refactoring](http://www.ibm.com/developerworks/kr/library/os-refactoringphp/index.html)
+ * [manual](http://www.php-editors.com/php_manual/)
+ * [Practical PHP Programming](http://www.tuxradar.com/practicalphp)
+ * [php essential](http://www.techotopia.com/index.php/PHP_Essentials)
+ * [deep end](http://www.survivethedeepend.com/zendframeworkbook/en/1.0)
+ * [writing better](http://css.dzone.com/articles/writing-better-php-three)
+ * [PHP Data Object](http://codular.com/php-pdo-how-to)

@@ -1,0 +1,3 @@
+# unset
+
+    unset($var);

@@ -1,0 +1,3 @@
+# asort
+
+    asort ($array);

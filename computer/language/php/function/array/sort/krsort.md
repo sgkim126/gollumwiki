@@ -1,0 +1,3 @@
+# krsort
+
+    krsort ($array);
